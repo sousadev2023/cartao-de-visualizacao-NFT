@@ -32,8 +32,8 @@ html, body {
 
 main {
     background-color: var(--cor2);
+    max-width: 375px;
     min-width: 20%;
-    max-width: 350px;
     height: 580px;
     padding: 25px 15px;
     border-radius: 20px;
